@@ -1,2 +1,2 @@
-# r3f-rxr-pong
+# r3f-hello-cube
 Created with CodeSandbox
